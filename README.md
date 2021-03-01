@@ -5,7 +5,7 @@ We are going to analyse the district school data by calculating the averages of 
 ###Deliverable 1###<br/>
 For this we use numpy by "conda install numpy"while we are in the anacondaprompt(python data) and we use "loc"to extract the datas of "thomas high" and we changed the <br/>
 to NaN .<br/>
-insert image deliv1 https://github.com/ramyasnl/School_analysis_submission/blob/main/deliverable1.png.<br/>
+ deliv1 https://github.com/ramyasnl/School_analysis_submission/blob/main/deliverable1.png.<br/>
 ###Deliverable 2###<br/>
 District school summary <br/>
 We have done calculating the averages of both reading & math,pass percentage for both reading & math ,overall pass percentage for the whole district<br/>
@@ -21,3 +21,4 @@ https://github.com/ramyasnl/School_analysis_submission/blob/main/bottom5.png <br
 insert img <br/>
 ###Overall Analysis###
 Rodriguez,Figueroa,Huang,Hernandez,Johnson are the bottom 5 schools and top5 goes to Cabrera High,Thomas high,Griffin,Wilson ,Penna High which are Charter Schools .
+https://github.com/ramyasnl/School_analysis_submission/blob/main/districtschoolsummary.png
