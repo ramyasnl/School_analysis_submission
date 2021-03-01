@@ -14,7 +14,7 @@ School Summary <br/>
 We have done calculating the averages of both reading & math,pass percentage for both reading & math ,overall pass percentage for all the schools seperate and have analysed the datas .<br/>
  all school summary https://github.com/ramyasnl/School_analysis_submission/commit/6fd0b235825a452d9f9779c9e9237623b79ba94b <br/>
 ###Top 5 schools###<br/>
-insert image top 5 <br/>
+ https://github.com/ramyasnl/School_analysis_submission/commit/bc183e707dbbeed0ed4e0dc8a71c107fa2e9cca5 <br/>
 ###Bottom 5 Schools ###<br/>
 https://github.com/ramyasnl/School_analysis_submission/blob/main/bottom5.png <br/>
 ###Thomas High Ninth Grade Analysis ###<br/>
